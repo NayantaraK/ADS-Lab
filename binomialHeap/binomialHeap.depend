@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673841523 source:c:\users\admin\documents\cs228\binomialheap\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+

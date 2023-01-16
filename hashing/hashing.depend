@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673842777 source:c:\users\admin\documents\cs228\hashing\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
